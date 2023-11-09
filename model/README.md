@@ -16,7 +16,7 @@ or by integrating the library as a dependency:
 
 ```
 <dependency>
-  <groupId>org.eclipse.aas4j</groupId>
+  <groupId>org.eclipse.digitaltwin.aas4j</groupId>
   <artifactId>model</artifactId>
   <version>latest-version</version>
 <dependency>
